@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="31669" started-at="2019-11-15T00:23:18Z" finished-at="2019-11-15T00:23:50Z">
+    <groups>
+    </groups>
+    <test name="RegressionTest" duration-ms="31669" started-at="2019-11-15T00:23:18Z" finished-at="2019-11-15T00:23:50Z">
+      <class name="com.project.November5AMMavenProject.TC_003">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_003@59f99ea]" name="beforeMethod" is-config="true" duration-ms="13313" started-at="2019-11-15T00:23:19Z" finished-at="2019-11-15T00:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="amazon()[pri:0, instance:com.project.November5AMMavenProject.TC_003@59f99ea]" name="amazon" duration-ms="16999" started-at="2019-11-15T00:23:32Z" finished-at="2019-11-15T00:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_003@59f99ea]" name="afterMethod" is-config="true" duration-ms="1268" started-at="2019-11-15T00:23:49Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.project.November5AMMavenProject.TC_003 -->
+      <class name="com.project.November5AMMavenProject.TC_001">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.project.November5AMMavenProject.TC_001@27efef64]" name="f" duration-ms="4" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.project.November5AMMavenProject.TC_001 -->
+      <class name="com.project.November5AMMavenProject.TC_002">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="beforeSuite" is-config="true" duration-ms="31" started-at="2019-11-15T00:23:18Z" finished-at="2019-11-15T00:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-11-15T00:23:18Z" finished-at="2019-11-15T00:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="a()[pri:2, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="a" duration-ms="1" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="afterMethod" is-config="true" duration-ms="2" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:3, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="f" duration-ms="3" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="afterClass" is-config="true" duration-ms="1" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.project.November5AMMavenProject.TC_002@ae45eb6]" name="afterSuite" is-config="true" duration-ms="12" started-at="2019-11-15T00:23:50Z" finished-at="2019-11-15T00:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.project.November5AMMavenProject.TC_002 -->
+    </test> <!-- RegressionTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>
